@@ -1,7 +1,7 @@
 ## Hi, I'm Mwavali Bryson Robert
 
-Full-stack-Web-Developer from eMobilis<br/>
-I create Mobile Apps, Design and Develop WEbsites<br/>
+Full-stack-Web-Developer from eMobilis Institute<br/>
+I create Mobile Apps, Design and Develop Websites<br/>
 
 
 # 💻 Tech Stack:
